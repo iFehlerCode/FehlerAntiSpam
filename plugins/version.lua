@@ -14,7 +14,7 @@
 do
 
 function run(msg, matches)
-  return 'Televirus v1.'
+  return 'FehlerCode Antispam Version 1. :D'
 end
 
 return {
